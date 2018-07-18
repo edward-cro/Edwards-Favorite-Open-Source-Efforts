@@ -2,9 +2,7 @@
 Let's take over the world -- together!
 
 We've been chewing our cud and paying for it, too, haven't we?
-
 It's almost as if we actually finished writing everything the public needs to do work efficiently in most fields about 10 years ago, but corperations change the U.I. of their product each year and sell it again.
-
 There are better open-sourced guitar tuner android apps than there are purchasable ones on the play store. and a new one will replace the old one every few years. but there were free ones from the start that had better functionality?! what the fuck!
 
 Operating Systems (O.S.O.S!):
