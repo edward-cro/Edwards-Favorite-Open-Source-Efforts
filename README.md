@@ -13,6 +13,7 @@ Programs/Applications:
 - Blender https://www.blender.org 
 - Inkscape https://inkscape.org/en/
 - Gimp https://www.gimp.org
+
 The above three programs boggle my mind as to how we, as a human race, have not shut adobe and it's bullshit business practices down. Blender, clearly the most professional and well-written program on the list, even has a python console built in, with which you have program vector points into place to construct an object using math. what the fuck people oh my god we all just want to be slaves or something.
     
 Android App Marketplaces and my favorite apps on them:
