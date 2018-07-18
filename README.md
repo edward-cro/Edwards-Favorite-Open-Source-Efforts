@@ -14,5 +14,6 @@ Android App Marketplaces and my favorite apps on them:
     Fuck yes. So... everything has been done well and for free, is what you're telling me. Google is brainwashing the masses, is what you are telling me.
     - Apps on F-Droid:
       - Tuner (yeah. you read my rant from before) https://f-droid.org/en/packages/org.billthefarmer.tuner/
+      - Terminux https://f-droid.org/en/packages/com.termux/ Pretty sweet! terminal on your android! talk to your conversation. the way you use it makes it feel lonely :/
       
     
