@@ -12,6 +12,6 @@ Android App Marketplaces and my favorite apps on them:
 - F-droid https://f-droid.org/en/
     Fuck yes. So... everything has been done well and for free, is what you're telling me. Google is brainwashing the masses, is what you are telling me.
     - Apps on F-Droid:
-      >Tuner (yeah. you read my rant from before) https://f-droid.org/en/packages/org.billthefarmer.tuner/
-      > 
+      - Tuner (yeah. you read my rant from before) https://f-droid.org/en/packages/org.billthefarmer.tuner/
+      
     
