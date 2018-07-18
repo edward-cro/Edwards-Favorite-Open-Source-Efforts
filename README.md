@@ -10,9 +10,9 @@ Operating Systems (O.S.O.S!):
     Although not technically an open sourced project, most of it's code is. Coded around K.I.S.S. philosophy, this operating system is one step towards teaching the public how to compute.
     
 Programs/Applications:
-- Blender https://www.blender.org 
-- Inkscape https://inkscape.org/en/
-- Gimp https://www.gimp.org
+- Blender https://www.blender.org (3d Object Design, Skeleton Rigging, Animation, Game-engine, the list goes on)
+- Inkscape https://inkscape.org/en/ (Vector-based Imaging)
+- Gimp https://www.gimp.org (Pixel-based Imaging)
 
 The above three programs boggle my mind as to how we, as a human race, have not shut adobe and it's bullshit business practices down. Blender, clearly the most professional and well-written program on the list, even has a python console built in, with which you have program vector points into place to construct an object using math. what the fuck people oh my god we all just want to be slaves or something.
     
