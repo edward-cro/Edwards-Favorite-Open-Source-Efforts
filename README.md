@@ -9,9 +9,14 @@ Operating Systems (O.S.O.S!):
 - ArchLinux https://www.archlinux.org
     Although not technically an open sourced project, most of it's code is. Coded around K.I.S.S. philosophy, this operating system is one step towards teaching the public how to compute.
     
+Programs/Applications:
+- Blender https://www.blender.org 
+- Inkscape https://inkscape.org/en/
+- Gimp https://www.gimp.org
+The above three programs boggle my mind as to how we, as a human race, have not shut adobe and it's bullshit business practices down. Blender, clearly the most professional and well-written program on the list, even has a python console built in, with which you have program vector points into place to construct an object using math. what the fuck people oh my god we all just want to be slaves or something.
+    
 Android App Marketplaces and my favorite apps on them:
-- F-droid https://f-droid.org/en/
-    Fuck yes. So... everything has been done well and for free, is what you're telling me. Google is brainwashing the masses, is what you are telling me.
+- F-droid https://f-droid.org/en/ Fuck yes. So... everything has been done well and for free, is what you're telling me. Google is brainwashing the masses, is what you are telling me.
     - Apps on F-Droid:
       - Tuner (yeah. you read my rant from before) https://f-droid.org/en/packages/org.billthefarmer.tuner/
       - Terminux https://f-droid.org/en/packages/com.termux/ Pretty sweet! terminal on your android! converse with your phone. the way you use it makes it feel lonely :/
