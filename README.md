@@ -11,7 +11,7 @@ Operating Systems (O.S.O.S!):
     
 Programs/Applications:
 - Blender www.blender.org (3d Object Design, Skeleton Rigging, Animation, Game-engine, the list goes on)
-- Inkscape inkscape.org/en/ (Vector-based Imaging)
+- Inkscape www.inkscape.org (Vector-based Imaging)
 - Gimp www.gimp.org (Pixel-based Imaging)
 - Pencil2D www.pencil2d.org (2d Hand-drawn Animation)
 - osCommerce www.oscommerce.com (Online Merchance, can get implemented into your website w/ php)
