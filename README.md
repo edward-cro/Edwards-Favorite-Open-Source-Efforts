@@ -7,7 +7,7 @@ There are better open-sourced guitar tuner android apps than there are purchasab
 
 Operating Systems (O.S.O.S!):
 - ArchLinux https://www.archlinux.org
-    Although not technically an open sourced project, most of it's code is. Coded around K.I.S.S. philosophy, this operating system is one step towards teaching the public how to compute.
+    Although not technically an open sourced project, most of it's code is. Designed with K.I.S.S. philosophy in mind, this operating system is one step towards teaching the public how to compute.
     
 Programs/Applications:
 - Blender www.blender.org (3d Object Design, Skeleton Rigging, Animation, Game-engine, the list goes on)
