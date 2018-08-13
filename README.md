@@ -10,12 +10,13 @@ Operating Systems (O.S.O.S!):
     Although not technically an open sourced project, most of it's code is. Coded around K.I.S.S. philosophy, this operating system is one step towards teaching the public how to compute.
     
 Programs/Applications:
-- Blender https://www.blender.org (3d Object Design, Skeleton Rigging, Animation, Game-engine, the list goes on)
-- Inkscape https://inkscape.org/en/ (Vector-based Imaging)
-- Gimp https://www.gimp.org (Pixel-based Imaging)
-- Pencil2D https://www.pencil2d.org (2d Hand-drawn Animation)
+- Blender www.blender.org (3d Object Design, Skeleton Rigging, Animation, Game-engine, the list goes on)
+- Inkscape inkscape.org/en/ (Vector-based Imaging)
+- Gimp www.gimp.org (Pixel-based Imaging)
+- Pencil2D www.pencil2d.org (2d Hand-drawn Animation)
+- osCommerce www.oscommerce.com (Online Merchance, can get implemented into your website w/ php)
 
-The above four programs boggle my mind as to how we, as a human race, have not shut adobe and it's bullshit business practices down. Blender, clearly the most professional and well-written program on the list, even has a python console built in, with which you have program vector points into place to construct an object using math. what the fuck people oh my god we all just want to be slaves or something.
+The above five programs boggle my mind as to how we, as a human race, have not shut adobe and it's bullshit business practices down. Blender, clearly the most professional and well-written program on the list, even has a python console built in, with which you have program vector points into place to construct an object using math. what the fuck people oh my god we all just want to be slaves or something.
     
 Android App Marketplaces and my favorite apps on them:
 - F-droid https://f-droid.org/en/ Fuck yes. So... everything has been done well and for free, is what you're telling me. Google is brainwashing the masses, is what you are telling me.
