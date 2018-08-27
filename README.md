@@ -11,7 +11,7 @@ Operating Systems (O.S.O.S!):
     
 Programs/Applications:
 - Blender www.blender.org (3d Object Design, Skeleton Rigging, Animation, Game engine compiler, the list goes on)
-- LibreOffice www.libreoffice.org/ (PDF exporter/slideshow n such. like microsoft office but better because it's been in development so it's really sexy now) 
+- LibreOffice www.libreoffice.org/ (PDF exporter/slideshow n such. there's even a guitar tab plug-in wtf) 
 - Inkscape www.inkscape.org (Vector-based Imaging)
 - Gimp www.gimp.org (Pixel-based Imaging)
 - Pencil2D www.pencil2d.org (2d Hand-drawn Animation)
