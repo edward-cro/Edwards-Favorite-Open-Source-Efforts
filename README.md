@@ -8,6 +8,10 @@ There are better open-sourced guitar tuner android apps than there are purchasab
 Operating Systems (O.S.O.S!):
 - ArchLinux https://www.archlinux.org
     Although not technically an open sourced project, most of it's code is. Designed with K.I.S.S. philosophy in mind, this operating system is one step towards teaching the public how to compute.
+- AntiX https://antixlinux.com/
+    Have had my eye on this one, have tested in virtual box. it's really cool. they've ripped out systemmd somehow.
+- Mint https://linuxmint.com/
+    I'm running this one. It's gorgeous, can use Cinnimon (which is great for a laptop requiring HiDPI support, like mine!) This operating system is great at teaching beginners/showing normies the power of open source. Based on Debian and Ubuntu, the software manager boasts 60k beautiful o.s. programs we can all use to do mad science with.  
     
 Programs/Applications:
 - Blender www.blender.org (3d Object Design, Skeleton Rigging, Animation, Game engine compiler, the list goes on)
@@ -22,7 +26,7 @@ The above five programs boggle my mind as to how we, as a human race, have not s
 Android App Marketplaces and my favorite apps on them:
 - F-droid https://f-droid.org/en/ Fuck yes. So... a free o.s. app marketplace, making certain tools (and growing) free forever, is what you're telling me. Google and Apple are brainwashing the masses, is what you are telling me.
     - Apps on F-Droid:
-      - Tuner (yeah. you read my rant from before) https://f-droid.org/en/packages/org.billthefarmer.tuner/
-      - Terminux https://f-droid.org/en/packages/com.termux/ Pretty sweet! terminal on your android! converse with your phone. the way you use it makes it feel lonely :/
+      -- Tuner (yeah. you read my rant from before) https://f-droid.org/en/packages/org.billthefarmer.tuner/
+      -- Terminux https://f-droid.org/en/packages/com.termux/ Pretty sweet! terminal on your android! converse with your phone. the way you use it makes it feel lonely :/
       
     
