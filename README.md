@@ -11,13 +11,14 @@ Operating Systems (O.S.O.S!):
 - Manjaro Linux https://manjaro.org/
     Another arch system, gets users to the most functional GUI I've seen on a linux system (and I've personally installed and used a very many of these things). This o.s. revives old apple products upon installation. Great stripped back O.S.O.S. which also provides chillin HiDpi support! personal favorite, although over the years I can see Arch Linux taking Manjora's place there.
 - AntiX https://antixlinux.com/
-    Have had my eye on this one, have tested in virtual box. it's really cool. they've ripped out systemmd somehow.
+    A linux distro with, arguably, less bloat, having ripped out systemd.
 - Mint https://linuxmint.com/
-    I'm running this one. It's gorgeous, can use Cinnimon (which is great for a laptop requiring HiDPI support, like mine!) This operating system is great at teaching beginners/showing normies the power of open source. Based on Debian and Ubuntu, the software manager boasts 60k beautiful o.s. programs we can all use to do mad science with.  
+    Recommended as a propriotary OS replacement. It's gorgeous, can use Cinnimon (which is great for a laptop requiring HiDPI support, like mine!) This operating system is great at teaching beginners/showing normies the power of open source. Based on Debian and Ubuntu, the software manager boasts 60k beautiful o.s. programs we can all use to do mad science with.  
 - TinyCore https://distro.ibiblio.org/tinycorelinux/welcome.html
-    Amaaazing. good shit. This will survive the test of time. Valuable automation and retrofitting tool. They have some work to do to clean up aspects of the backend but it is seriously the perfect foundation. Another personal favorite.
+    This will survive the test of time. Valuable automation and retrofitting tool
     
 Programs/Applications:
+- Krita https://docs.krita.org/en/index.html
 - Blender www.blender.org (3d Object Design, Skeleton Rigging, Animation, Game engine compiler, the list goes on)
 - LibreOffice www.libreoffice.org/ (PDF exporter/slideshow n such. there's even a guitar tab plug-in wtf) 
 - Inkscape www.inkscape.org (Vector-based Imaging)
@@ -28,8 +29,8 @@ Programs/Applications:
 The above five programs boggle my mind as to how we, as a human race, have not shut adobe and it's bullshit business practices down. Blender, clearly the most professional and well-written program on the list, even has a python console built in.
     
 Android App Marketplaces and my favorite apps on them:
-- F-droid https://f-droid.org/en/ Fuck yes. So... a free o.s. app marketplace, making certain tools (and growing) free forever, is what you're telling me. Google and Apple are brainwashing the masses, is what you are telling me.
+- F-droid https://f-droid.org/en/ Fuck yes. So... a free o.s. app marketplace, making certain tools (and growing) free forever, is what you're telling me.
      - Tuner (yeah. you read my rant from before) https://f-droid.org/en/packages/org.billthefarmer.tuner/
-     - Terminux https://f-droid.org/en/packages/com.termux/ Pretty sweet! terminal on your android! converse with your phone. the way you use it makes it feel lonely :/
+     - Terminux https://f-droid.org/en/packages/com.termux/ Pretty sweet! terminal on your android! allows for virtualizaion though I cannot attest considering my phone model isn't capable of doing so
       
     
